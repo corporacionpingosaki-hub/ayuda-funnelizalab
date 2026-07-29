@@ -18,13 +18,14 @@ const config = {
 
   // ─────────────────────────────────────────────────────────────────────────
   // URL de producción y baseUrl
-  // Para cambiar a dominio propio (ej. ayuda.funnelizalab.com):
-  //   1. Cambia `url` a 'https://ayuda.funnelizalab.com'
-  //   2. Cambia `baseUrl` a '/'
-  //   3. Crea el archivo static/CNAME con el contenido: ayuda.funnelizalab.com
+  // Dominio personalizado: ayuda.funnelizalab.com
+  // El archivo static/CNAME le indica a GitHub Pages qué dominio servir.
+  // Si alguna vez vuelves a GitHub Pages sin dominio propio:
+  //   url    → 'https://corporacionpingosaki-hub.github.io'
+  //   baseUrl → '/ayuda-funnelizalab/'
   // ─────────────────────────────────────────────────────────────────────────
-  url: 'https://corporacionpingosaki-hub.github.io',
-  baseUrl: '/ayuda-funnelizalab/',
+  url: 'https://ayuda.funnelizalab.com',
+  baseUrl: '/',
 
   // Configuración para despliegue en GitHub Pages
   organizationName: 'corporacionpingosaki-hub',
