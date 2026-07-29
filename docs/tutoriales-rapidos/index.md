@@ -2,14 +2,20 @@
 title: Tutoriales Rápidos
 sidebar_label: Introducción
 slug: /tutoriales-rapidos
+sidebar_position: 0
 ---
 
 # Tutoriales Rápidos
 
-> **Contenido pendiente** — Aquí encontrarás tutoriales paso a paso con texto y video para las tareas más frecuentes en FunnelizaLab.
+Aquí encontrarás guías cortas y directas para completar las tareas más frecuentes en FunnelizaLab — sin necesidad de contactar soporte.
 
-Aprende a hacer las cosas en minutos con guías visuales concisas, diseñadas para resolverse sin necesidad de contactar soporte.
+Cada tutorial incluye pasos numerados y un video explicativo para que puedas resolverlo en minutos.
 
-:::info Próximamente
-Estamos preparando los artículos de esta sección. Vuelve pronto.
-:::
+## ¿Qué aprenderás aquí?
+
+- **Gestión de contactos** — exportar, filtrar e importar tu base de datos
+- **Configuración de cuenta** — usuarios, permisos y accesos
+- **Automatizaciones** — activar y gestionar flujos de trabajo
+- Y más tutoriales que iremos añadiendo
+
+> ¿No encuentras lo que buscas? Usa el buscador en la parte superior de la página.
