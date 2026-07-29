@@ -9,7 +9,9 @@ import { themes as prismThemes } from 'prism-react-renderer';
 const config = {
   title: 'Centro de Ayuda FunnelizaLab',
   tagline: 'Encuentra la solución en segundos',
-  favicon: 'img/favicon.ico',
+  // TODO: Si necesitas compatibilidad con IE/Safari antiguo, genera también un
+  // favicon.ico a partir de este SVG (ej. con https://realfavicongenerator.net)
+  favicon: 'img/favicon.svg',
 
   // Future flags para compatibilidad con Docusaurus v4
   future: {
