@@ -1,0 +1,130 @@
+/* ─────────────────────────────────────────────────────────────────────────
+   Centro de Ayuda FunnelizaLab — Design Tokens
+   Paleta principal: Índigo/Violeta  (#4F46E5 / #7C3AED)
+   ──────────────────────────────────────────────────────────────────────── */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+:root {
+  /* ── Colores de acento ── */
+  --ifm-color-primary: #4F46E5;
+  --ifm-color-primary-dark: #4338CA;
+  --ifm-color-primary-darker: #3730A3;
+  --ifm-color-primary-darkest: #312E81;
+  --ifm-color-primary-light: #6366F1;
+  --ifm-color-primary-lighter: #818CF8;
+  --ifm-color-primary-lightest: #A5B4FC;
+
+  /* ── Violeta como acento secundario ── */
+  --funnelizalab-violet: #7C3AED;
+  --funnelizalab-violet-light: #A78BFA;
+
+  /* ── Tipografía ── */
+  --ifm-font-family-base: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --ifm-heading-font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --ifm-font-size-base: 16px;
+  --ifm-line-height-base: 1.6;
+
+  /* ── Código ── */
+  --ifm-code-font-size: 93%;
+
+  /* ── Navbar ── */
+  --ifm-navbar-background-color: #ffffff;
+  --ifm-navbar-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.08);
+
+  /* ── Footer ── */
+  --ifm-footer-background-color: #F8FAFC;
+  --ifm-footer-color: #64748B;
+
+  /* ── Bordes y radios ── */
+  --ifm-global-border-radius: 8px;
+  --ifm-card-border-radius: 12px;
+}
+
+/* ── Modo oscuro ──────────────────────────────────────────────────────────── */
+[data-theme='dark'] {
+  --ifm-color-primary: #818CF8;
+  --ifm-color-primary-dark: #6366F1;
+  --ifm-color-primary-darker: #4F46E5;
+  --ifm-color-primary-darkest: #4338CA;
+  --ifm-color-primary-light: #A5B4FC;
+  --ifm-color-primary-lighter: #C7D2FE;
+  --ifm-color-primary-lightest: #E0E7FF;
+
+  --ifm-background-color: #0F172A;
+  --ifm-background-surface-color: #1E293B;
+  --ifm-navbar-background-color: #0F172A;
+  --ifm-footer-background-color: #0F172A;
+  --ifm-footer-color: #94A3B8;
+  --ifm-navbar-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.3);
+}
+
+/* ── Docusaurus highlighting ────────────────────────────────────────────── */
+.docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 255, 0.1);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+[data-theme='dark'] .docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 255, 0.3);
+}
+
+/* ── Navbar styling ─────────────────────────────────────────────────────── */
+.navbar {
+  border-bottom: 1px solid rgba(79, 70, 229, 0.1);
+}
+
+.navbar__title {
+  font-weight: 700;
+  background: linear-gradient(135deg, var(--ifm-color-primary), var(--funnelizalab-violet));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.navbar__link--active,
+.navbar__link:hover {
+  color: var(--ifm-color-primary);
+}
+
+/* ── Footer styling ─────────────────────────────────────────────────────── */
+.footer {
+  border-top: 1px solid rgba(79, 70, 229, 0.1);
+}
+
+.footer--light {
+  background-color: var(--ifm-footer-background-color);
+}
+
+.footer__copyright {
+  font-size: 0.875rem;
+  color: var(--ifm-footer-color);
+}
+
+/* ── Sidebar ─────────────────────────────────────────────────────────────── */
+.menu__link--active {
+  background: rgba(79, 70, 229, 0.08);
+  color: var(--ifm-color-primary);
+  font-weight: 600;
+  border-radius: 6px;
+}
+
+/* ── Cards / Hero de la home ─────────────────────────────────────────────── */
+.hero--primary {
+  background: linear-gradient(135deg, #4F46E5 0%, #7C3AED 100%);
+}
+
+/* ── Búsqueda (search-local plugin) ─────────────────────────────────────── */
+.navbar__search-input {
+  border-radius: 8px;
+  border: 1px solid rgba(79, 70, 229, 0.3);
+  transition: border-color 0.2s ease;
+}
+
+.navbar__search-input:focus {
+  border-color: var(--ifm-color-primary);
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.15);
+}
