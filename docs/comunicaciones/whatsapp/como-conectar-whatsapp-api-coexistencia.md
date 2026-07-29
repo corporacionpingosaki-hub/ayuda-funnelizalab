@@ -1,6 +1,6 @@
 ---
 title: Cómo conectar WhatsApp API en coexistencia
-sidebar_position: 2
+sidebar_position: 3
 description: "Guía para conectar el WhatsApp Business API en modo coexistencia a tu CRM, manteniendo la app de WhatsApp Business activa en el celular."
 ---
 
