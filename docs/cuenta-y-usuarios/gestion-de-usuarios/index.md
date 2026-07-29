@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 title: "Gestión de usuarios"
 description: "Cómo crear, editar o eliminar usuarios dentro de la cuenta."
 ---

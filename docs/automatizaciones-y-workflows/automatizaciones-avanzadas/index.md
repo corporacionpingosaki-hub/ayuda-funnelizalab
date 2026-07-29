@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 title: "Automatizaciones avanzadas"
 description: "Casos más complejos: condicionales, esperas y combinaciones de varios workflows."
 ---

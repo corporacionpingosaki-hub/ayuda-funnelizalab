@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 title: "Recordatorios y confirmaciones"
 description: "Cómo activar recordatorios y confirmaciones automáticas antes de una cita."
 ---

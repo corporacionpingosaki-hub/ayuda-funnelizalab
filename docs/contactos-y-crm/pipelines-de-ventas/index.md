@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 title: "Pipelines de ventas"
 description: "Cómo mover y gestionar contactos dentro de un pipeline de ventas."
 ---

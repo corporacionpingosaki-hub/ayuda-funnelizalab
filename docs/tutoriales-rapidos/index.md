@@ -2,7 +2,7 @@
 title: Tutoriales Rápidos
 sidebar_label: Introducción
 slug: /tutoriales-rapidos
-sidebar_position: 0
+sidebar_position: 1
 ---
 
 # Tutoriales Rápidos

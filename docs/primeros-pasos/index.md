@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 title: Primeros Pasos
 sidebar_label: Introducción
 slug: /primeros-pasos

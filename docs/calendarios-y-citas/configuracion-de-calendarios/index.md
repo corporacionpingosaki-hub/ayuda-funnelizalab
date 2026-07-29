@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 title: "Configuración de calendarios"
 description: "Cómo crear y ajustar un calendario para agendar citas."
 ---

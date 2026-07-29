@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 title: "Workflows básicos"
 description: "Cómo crear y activar un workflow desde cero."
 ---

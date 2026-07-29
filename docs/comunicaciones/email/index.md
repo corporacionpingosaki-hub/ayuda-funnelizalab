@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 title: "Email"
 description: "Configuración y solución de problemas de envío de correos."
 ---

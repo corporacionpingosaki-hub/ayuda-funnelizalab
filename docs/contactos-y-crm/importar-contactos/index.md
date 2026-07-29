@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 title: "Importar contactos"
 description: "Cómo subir o migrar listas de contactos a la plataforma."
 ---

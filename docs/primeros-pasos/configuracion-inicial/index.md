@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 title: "Configuración inicial"
 description: "Cómo dejar la cuenta lista para empezar a usar la plataforma: acceso, datos básicos y primeras configuraciones."
 ---

@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 title: Problemas Comunes
 sidebar_label: Visión general
 slug: /problemas-comunes

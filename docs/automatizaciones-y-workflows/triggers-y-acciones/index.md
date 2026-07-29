@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 title: "Triggers y acciones"
 description: "Cómo configurar los disparadores y las acciones dentro de un workflow."
 ---

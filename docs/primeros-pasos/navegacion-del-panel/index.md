@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 title: "Navegación del panel"
 description: "Cómo moverte por el panel principal y encontrar las secciones más usadas."
 ---

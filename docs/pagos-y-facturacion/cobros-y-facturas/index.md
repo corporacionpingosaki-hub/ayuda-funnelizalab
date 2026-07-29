@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 title: "Cobros y facturas"
 description: "Cómo configurar cobros y generar facturas a clientes."
 ---

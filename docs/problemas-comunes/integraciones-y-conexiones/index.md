@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 title: "Integraciones y conexiones"
 description: "Problemas de conexión con herramientas externas o servicios integrados."
 ---

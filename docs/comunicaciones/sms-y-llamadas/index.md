@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 title: "SMS y llamadas"
 description: "Configuración y solución de problemas de SMS y llamadas."
 ---

@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 title: "Productos y ofertas"
 description: "Cómo crear y editar productos u ofertas para la venta."
 ---

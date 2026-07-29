@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 title: "Permisos y roles"
 description: "Cómo asignar o cambiar los permisos y el rol de cada usuario."
 ---

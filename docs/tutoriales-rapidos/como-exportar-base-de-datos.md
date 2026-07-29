@@ -1,6 +1,6 @@
 ---
 title: Cómo exportar una base de datos
-sidebar_position: 1
+sidebar_position: 2
 description: Cómo exportar contactos (todos o filtrados) en formato CSV desde la pestaña de contactos.
 ---
 
