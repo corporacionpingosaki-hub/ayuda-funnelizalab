@@ -1,5 +1,12 @@
 ---
-title: Configuración de calendarios
+title: "Configuración de calendarios"
+description: "Cómo crear y ajustar un calendario para agendar citas."
 ---
 
-Contenido pendiente.
+# Configuración de calendarios
+
+> Cómo crear y ajustar un calendario para agendar citas.
+
+:::info Próximamente
+Estamos preparando los artículos de esta sección. Vuelve pronto.
+:::

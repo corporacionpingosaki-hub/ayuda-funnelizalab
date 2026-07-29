@@ -1,5 +1,12 @@
 ---
-title: Integraciones y conexiones
+title: "Integraciones y conexiones"
+description: "Problemas de conexión con herramientas externas o servicios integrados."
 ---
 
-Contenido pendiente.
+# Integraciones y conexiones
+
+> Problemas de conexión con herramientas externas o servicios integrados.
+
+:::info Próximamente
+Estamos preparando los artículos de esta sección. Vuelve pronto.
+:::

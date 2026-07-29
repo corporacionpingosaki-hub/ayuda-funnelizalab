@@ -1,5 +1,12 @@
 ---
-title: Cobros y facturas
+title: "Cobros y facturas"
+description: "Cómo configurar cobros y generar facturas a clientes."
 ---
 
-Contenido pendiente.
+# Cobros y facturas
+
+> Cómo configurar cobros y generar facturas a clientes.
+
+:::info Próximamente
+Estamos preparando los artículos de esta sección. Vuelve pronto.
+:::

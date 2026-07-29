@@ -1,5 +1,12 @@
 ---
-title: Etiquetas y segmentación
+title: "Etiquetas y segmentación"
+description: "Cómo organizar contactos con etiquetas y crear segmentos."
 ---
 
-Contenido pendiente.
+# Etiquetas y segmentación
+
+> Cómo organizar contactos con etiquetas y crear segmentos.
+
+:::info Próximamente
+Estamos preparando los artículos de esta sección. Vuelve pronto.
+:::

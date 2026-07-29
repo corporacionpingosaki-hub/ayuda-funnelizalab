@@ -1,5 +1,12 @@
 ---
-title: Productos y ofertas
+title: "Productos y ofertas"
+description: "Cómo crear y editar productos u ofertas para la venta."
 ---
 
-Contenido pendiente.
+# Productos y ofertas
+
+> Cómo crear y editar productos u ofertas para la venta.
+
+:::info Próximamente
+Estamos preparando los artículos de esta sección. Vuelve pronto.
+:::

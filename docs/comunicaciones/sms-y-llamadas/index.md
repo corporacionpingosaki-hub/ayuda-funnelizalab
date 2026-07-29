@@ -1,5 +1,12 @@
 ---
-title: SMS y llamadas
+title: "SMS y llamadas"
+description: "Configuración y solución de problemas de SMS y llamadas."
 ---
 
-Contenido pendiente.
+# SMS y llamadas
+
+> Configuración y solución de problemas de SMS y llamadas.
+
+:::info Próximamente
+Estamos preparando los artículos de esta sección. Vuelve pronto.
+:::

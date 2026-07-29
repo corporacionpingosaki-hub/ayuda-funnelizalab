@@ -1,5 +1,12 @@
 ---
-title: Workflows básicos
+title: "Workflows básicos"
+description: "Cómo crear y activar un workflow desde cero."
 ---
 
-Contenido pendiente.
+# Workflows básicos
+
+> Cómo crear y activar un workflow desde cero.
+
+:::info Próximamente
+Estamos preparando los artículos de esta sección. Vuelve pronto.
+:::

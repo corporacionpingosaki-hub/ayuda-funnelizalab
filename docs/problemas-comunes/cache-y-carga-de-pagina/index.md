@@ -1,14 +1,11 @@
 ---
-title: Caché y Carga de Página
-sidebar_label: Visión general
-slug: /problemas-comunes/cache-y-carga-de-pagina
+title: "Caché y carga de página"
+description: "Soluciones cuando la página no carga bien o se ve desactualizada por caché del navegador."
 ---
 
-# Caché y Carga de Página
+# Caché y carga de página
 
-> **Contenido pendiente** — Aquí encontrarás instrucciones para limpiar la caché del navegador y resolver problemas de carga de páginas en FunnelizaLab.
-
-Problemas como páginas desactualizadas, elementos que no cargan o errores de visualización suelen resolverse limpiando la caché.
+> Soluciones cuando la página no carga bien o se ve desactualizada por caché del navegador.
 
 :::info Próximamente
 Estamos preparando los artículos de esta sección. Vuelve pronto.
