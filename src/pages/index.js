@@ -9,19 +9,19 @@ const categories = [
     icon: '🚀',
     title: 'Primeros Pasos',
     description: 'Empieza aquí si eres nuevo en FunnelizaLab. Aprende lo esencial para configurar tu cuenta.',
-    link: '/docs/primeros-pasos',
+    link: '/docs/category/primeros-pasos',
+  },
+  {
+    icon: '📇',
+    title: 'Contactos y CRM',
+    description: 'Aprende a importar, exportar, etiquetar y gestionar tus listas de contactos y pipelines.',
+    link: '/docs/category/contactos-y-crm',
   },
   {
     icon: '🔧',
     title: 'Problemas Comunes',
-    description: 'Soluciones rápidas a los inconvenientes más frecuentes: caché, accesos, carga de páginas y más.',
-    link: '/docs/problemas-comunes',
-  },
-  {
-    icon: '🎬',
-    title: 'Tutoriales Rápidos',
-    description: 'Guías paso a paso con texto y video para completar tareas sin necesidad de contactar soporte.',
-    link: '/docs/tutoriales-rapidos',
+    description: 'Soluciones rápidas a los inconvenientes más frecuentes: caché, formularios, conexiones y más.',
+    link: '/docs/category/problemas-comunes',
   },
 ];
 
@@ -32,7 +32,7 @@ function HeroSection() {
       <div className={styles.heroInner}>
         <h1 className={styles.heroTitle}>{siteConfig.title}</h1>
         <p className={styles.heroTagline}>{siteConfig.tagline}</p>
-        <Link className={styles.heroCta} to="/docs/primeros-pasos">
+        <Link className={styles.heroCta} to="/docs/category/primeros-pasos">
           Comenzar →
         </Link>
       </div>
