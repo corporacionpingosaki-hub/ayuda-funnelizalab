@@ -13,4 +13,7 @@ A veces necesitas sacar tu base de datos de contactos del sistema, ya sea comple
 3. Con los contactos seleccionados, haz clic en los **tres puntos** (más opciones) y elige **Exportar**.
 4. El sistema comenzará a exportar en formato **.csv** y generará un archivo para descargar. Si la descarga no inicia de inmediato, ve a la pestaña de **Acciones masivas**, donde podrás ver el progreso del proceso o descargar el archivo una vez esté listo.
 
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/iP4ry7w6FvA" title="Cómo exportar una base de datos" frameborder="0" allowfullscreen></iframe>
+<video controls preload="metadata" style={{width: '100%'}}>
+  <source src="https://assets.cdn.filesafe.space/An3izBzgAmLpu27drESj/media/6a6a28928c38306c3d591e29.mp4" type="video/mp4" />
+  Tu navegador no soporta el video incrustado.
+</video>
