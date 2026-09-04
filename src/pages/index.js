@@ -7,9 +7,9 @@ import styles from './index.module.css';
 const categories = [
   {
     icon: '🚀',
-    title: 'Primeros Pasos',
-    description: 'Empieza aquí si eres nuevo en FunnelizaLab. Aprende lo esencial para configurar tu cuenta.',
-    link: '/docs/category/primeros-pasos',
+    title: 'Comunicaciones',
+    description: 'Aprende a conectar y configurar tus canales como WhatsApp API.',
+    link: '/docs/category/comunicaciones',
   },
   {
     icon: '📇',
@@ -32,7 +32,7 @@ function HeroSection() {
       <div className={styles.heroInner}>
         <h1 className={styles.heroTitle}>{siteConfig.title}</h1>
         <p className={styles.heroTagline}>{siteConfig.tagline}</p>
-        <Link className={styles.heroCta} to="/docs/category/primeros-pasos">
+        <Link className={styles.heroCta} to="/docs/problemas-comunes/borrar-cache">
           Comenzar →
         </Link>
       </div>

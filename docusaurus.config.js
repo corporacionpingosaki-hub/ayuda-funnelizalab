@@ -112,7 +112,7 @@ const config = {
         },
         items: [
           {
-            to: '/docs/primeros-pasos',
+            to: '/docs/problemas-comunes/borrar-cache',
             position: 'left',
             label: 'Ayuda',
           },
