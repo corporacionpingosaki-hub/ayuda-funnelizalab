@@ -107,6 +107,6 @@ Las llamadas que tú inicias hacia un cliente se cobran por minuto (facturación
 - Las tarifas pueden actualizarse periódicamente; te avisaremos con anticipación si hay cambios.
 
 <video width="100%" height="400" controls>
-  <source src="https://video.com/video.mp4" type="video/mp4" />
+  <source src="https://assets.cdn.filesafe.space/An3izBzgAmLpu27drESj/media/6a9afa48ac5d03a109598a01.mp4" type="video/mp4" />
   Tu navegador no soporta la reproducción de video.
 </video>
