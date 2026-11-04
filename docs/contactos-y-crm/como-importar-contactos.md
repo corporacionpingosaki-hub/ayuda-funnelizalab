@@ -18,7 +18,7 @@ Necesitas subir una base de datos de contactos externa al CRM de forma masiva pa
 8. Confirma el consentimiento y haz clic en **Confirmar la importación** para iniciar la carga de tus contactos.
 
 <video controls preload="metadata" style={{width: '100%'}}>
-  <source src="https://assets.cdn.filesafe.space/An3izBzgAmLpu27drESj/media/6aeb8e4fe322309abfc1d044.mp4" type="video/mp4" />
+  <source src="https://assets.cdn.filesafe.space/An3izBzgAmLpu27drESj/media/6aeb9169fd27ee9265f52562.mp4" type="video/mp4" />
   Tu navegador no soporta el video incrustado.
 </video>
 
