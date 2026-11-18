@@ -37,3 +37,4 @@ https://services.leadconnectorhq.com/mcp/anthropic/v2
   <source src="https://files.leadconnectorhq.com/file/6af37cca1c208a123b4ad76b/conctar-mcp.mp4" type="video/mp4" />
   Tu navegador no soporta el video incrustado.
 </video>
+

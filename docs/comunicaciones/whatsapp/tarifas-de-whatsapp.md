@@ -1,105 +1,95 @@
 ---
 title: Tarifas de WhatsApp
 sidebar_position: 4
-description: Tabla de tarifas vigentes para mensajes y llamadas de WhatsApp según país, incluyendo categorías Marketing y Utility.
+description: Tabla de tarifas vigentes para mensajes y llamadas de WhatsApp según país o mercado, incluyendo categorías Marketing y Utilidad.
 ---
 
 ## El problema
-Al enviar mensajes o hacer llamadas por WhatsApp desde FunnelizaLab, el costo varía según el país o mercado de tus contactos y el tipo de mensaje. Esta guía reúne las tarifas vigentes desde septiembre de 2026 para que puedas calcular tus costos correctamente.
+Al enviar mensajes o hacer llamadas por WhatsApp desde FunnelizaLab, el costo varía según el país o mercado de tus contactos y el tipo de mensaje. Esta guía reúne las tarifas vigentes (actualizadas a noviembre de 2026) para que puedas calcular tus costos correctamente.
 
 ## Solución
 
-### Mensajes
-Los mensajes se cobran según su categoría:
+### Mensajes de plantilla
+Los mensajes se cobran según su categoría (precio por mensaje enviado, en USD):
 - **Marketing**: plantillas promocionales (ofertas, campañas, anuncios).
-- **Utility**: plantillas de servicio (confirmaciones, actualizaciones de pedido, recordatorios, notificaciones).
+- **Utilidad**: plantillas de servicio (confirmaciones, actualizaciones de pedido, recordatorios, notificaciones).
 
 Los mensajes de conversación libre, dentro de la ventana de 24 horas después de que el cliente te escribe, no tienen costo.
 
-| País / mercado | Marketing (por mensaje) | Utility (por mensaje) |
-|---|---|---|
-| Alemania | $0.2150 | $0.0867 |
-| Arabia Saudita | $0.0789 | $0.0168 |
-| Argentina | $0.0973 | $0.0410 |
-| Brasil | $0.0984 | $0.0106 |
-| Catar | $0.0537 | $0.0189 |
-| Chile | $0.1399 | $0.0315 |
-| Colombia | $0.0197 | $0.0012 |
-| Egipto | $0.1014 | $0.0057 |
-| Emiratos Árabes Unidos | $0.0786 | $0.0248 |
-| España | $0.1113 | $0.0315 |
-| Estados Unidos y Canadá | $0.0394 | $0.0054 |
-| Francia | $0.1353 | $0.0473 |
-| Hong Kong | $0.1153 | $0.0410 |
-| Hungría | $0.1355 | $0.0552 |
-| India | $0.0186 | $0.0023 |
-| Indonesia | $0.0648 | $0.0394 |
-| Israel | $0.0557 | $0.0084 |
-| Italia | $0.1253 | $0.0473 |
-| Malasia | $0.1355 | $0.0221 |
-| México | $0.0480 | $0.0134 |
-| Nigeria | $0.0813 | $0.0105 |
-| Otros países | $0.0951 | $0.0121 |
-| Países Bajos | $0.2515 | $0.0788 |
-| Pakistán | $0.0746 | $0.0158 |
-| Perú | $0.1107 | $0.0315 |
-| Polonia | $0.0576 | $0.0192 |
-| Reino Unido | $0.1001 | $0.0347 |
-| Resto de África | $0.0354 | $0.0063 |
-| Resto de Asia-Pacífico | $0.1153 | $0.0179 |
-| Resto de Europa Central y del Este | $0.1355 | $0.0335 |
-| Resto de Europa Occidental | $0.0933 | $0.0270 |
-| Resto de Latinoamérica | $0.1166 | $0.0179 |
-| Resto de Medio Oriente | $0.0537 | $0.0144 |
-| Rumania | $0.1355 | $0.0457 |
-| Rusia | $0.1263 | $0.0630 |
-| Singapur | $0.1153 | $0.0252 |
-| Sudáfrica | $0.0597 | $0.0120 |
-| Turquía | $0.0171 | $0.0014 |
+| Mercado | Marketing (USD) | Utilidad (USD) |
+| --- | --- | --- |
+| Colombia | $0.0183 | $0.0011 |
+| México | $0.0448 | $0.0125 |
+| Perú | $0.1033 | $0.0294 |
+| Chile | $0.1306 | $0.0294 |
+| Argentina | $0.0909 | $0.0382 |
+| Brasil | $0.0918 | $0.0099 |
+| Resto de Latinoamérica | $0.1088 | $0.0167 |
+| Norteamérica (EE.UU. y Canadá) | $0.0368 | $0.0048 |
+| España | $0.1039 | $0.0294 |
+| Reino Unido | $0.0934 | $0.0323 |
+| Francia | $0.1263 | $0.0441 |
+| Alemania | $0.2006 | $0.0809 |
+| Italia | $0.1169 | $0.0441 |
+| Países Bajos | $0.2348 | $0.0735 |
+| Hungría | $0.1264 | $0.0515 |
+| Polonia | $0.0538 | $0.0179 |
+| Rumania | $0.1264 | $0.0427 |
+| Rusia | $0.1179 | $0.0588 |
+| Turquía | $0.0160 | $0.0013 |
+| Resto de Europa Occidental | $0.0871 | $0.0252 |
+| Resto de Europa Central y del Este | $0.1264 | $0.0312 |
+| Emiratos Árabes Unidos | $0.0734 | $0.0231 |
+| Arabia Saudita | $0.0736 | $0.0157 |
+| Qatar | $0.0501 | $0.0176 |
+| Israel | $0.0519 | $0.0078 |
+| Egipto | $0.0946 | $0.0053 |
+| Resto de Medio Oriente | $0.0501 | $0.0134 |
+| India | $0.0174 | $0.0021 |
+| Pakistán | $0.0696 | $0.0147 |
+| Indonesia | $0.0605 | $0.0368 |
+| Malasia | $0.1264 | $0.0206 |
+| Hong Kong | $0.1077 | $0.0382 |
+| Singapur | $0.1077 | $0.0235 |
+| Resto de Asia Pacífico | $0.1077 | $0.0167 |
+| Nigeria | $0.0759 | $0.0098 |
+| Sudáfrica | $0.0557 | $0.0112 |
+| Resto de África | $0.0330 | $0.0059 |
+| Otros | $0.0888 | $0.0113 |
 
-### Llamadas
-Las llamadas que tú inicias hacia un cliente se cobran por minuto (facturación en bloques de 6 segundos). Las llamadas que el cliente te hace a ti no tienen costo.
+### Llamadas de WhatsApp
+Precio por minuto en llamadas iniciadas por el negocio, en dólares (USD). Se cobran en pulsos de 6 segundos. Las llamadas que inicia el cliente no tienen costo.
 
-| País / mercado | Costo por minuto |
-|---|---|
-| Alemania | $0.0162 |
-| Arabia Saudita | $0.0199 |
-| Argentina | $0.0159 |
-| Brasil | $0.0169 |
-| Catar | No disponible |
-| Chile | $0.0190 |
-| Colombia | $0.0175 |
-| Egipto | No disponible |
-| Emiratos Árabes Unidos | $0.0199 |
-| España | $0.0203 |
-| Estados Unidos y Canadá | No disponible |
-| Francia | $0.0156 |
-| Hong Kong | No disponible |
-| Hungría | No disponible |
-| India | $0.0084 |
-| Indonesia | $0.0381 |
-| Israel | $0.0199 |
-| Italia | $0.0190 |
-| Malasia | $0.0169 |
-| México | $0.0149 |
-| Nigeria | No disponible |
-| Otros países | $0.0209 |
-| Países Bajos | $0.0099 |
-| Pakistán | $0.0188 |
-| Perú | $0.0190 |
-| Polonia | No disponible |
-| Reino Unido | $0.0156 |
-| Resto de África | $0.0162 |
-| Resto de Asia-Pacífico | $0.0180 |
-| Resto de Europa Central y del Este | $0.0150 |
-| Resto de Europa Occidental | $0.0162 |
-| Resto de Latinoamérica | $0.0183 |
-| Resto de Medio Oriente | $0.0199 |
-| Rumania | No disponible |
-| Rusia | $0.0153 |
-| Singapur | No disponible |
-| Sudáfrica | $0.0169 |
-| Turquía | No disponible |
+| Mercado | Código | Precio por minuto (USD) |
+| --- | --- | --- |
+| Colombia | +57 | $0.0164 |
+| México | +52 | $0.0139 |
+| Perú | +51 | $0.0178 |
+| Chile | +56 | $0.0178 |
+| Argentina | +54 | $0.0148 |
+| Brasil | +55 | $0.0158 |
+| Resto de Latinoamérica | Varios | $0.0171 |
+| España | +34 | $0.0189 |
+| Reino Unido | +44 | $0.0146 |
+| Francia | +33 | $0.0146 |
+| Alemania | +49 | $0.0151 |
+| Italia | +39 | $0.0178 |
+| Países Bajos | +31 | $0.0092 |
+| Rusia | +7 | $0.0143 |
+| Resto de Europa Occidental | Varios | $0.0151 |
+| Resto de Europa Central y del Este | Varios | $0.0140 |
+| Emiratos Árabes Unidos | +971 | $0.0186 |
+| Arabia Saudita | +966 | $0.0186 |
+| Israel | +972 | $0.0186 |
+| Resto de Medio Oriente | Varios | $0.0186 |
+| India | +91 | $0.0078 |
+| Pakistán | +92 | $0.0175 |
+| Indonesia | +62 | $0.0356 |
+| Malasia | +60 | $0.0158 |
+| Resto de Asia Pacífico | Varios | $0.0168 |
+| Sudáfrica | +27 | $0.0158 |
+| Resto de África | Varios | $0.0151 |
+| Otros | Varios | $0.0195 |
 
 ### Notas
 - Todas las tarifas están en USD.
