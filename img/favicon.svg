@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Fondo redondeado con color de marca -->
+  <rect width="32" height="32" rx="7" fill="#4F46E5"/>
+  <!-- Rayo FunnelizaLab escalado a 32x32 -->
+  <defs>
+    <linearGradient id="fg" x1="18" y1="2" x2="10" y2="30" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#C4B5FD"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+  </defs>
+  <polygon
+    points="20,3 7,18 14.5,18 12,29 25,14 17.5,14"
+    fill="url(#fg)"
+  />
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 120" fill="none">
+  <defs>
+    <linearGradient id="bolt-gradient" x1="60" y1="0" x2="30" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+  <!-- Lightning bolt shape matching the FunnelizaLab logo -->
+  <polygon
+    points="62,0 20,65 48,65 38,120 80,52 52,52"
+    fill="url(#bolt-gradient)"
+  />
+</svg>
